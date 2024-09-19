@@ -1,11 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="5cxsDLkVwA8R4ArF3v7Y">
-    <mxGraphModel dx="1042" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HjrUG4rNDXJOUZNBJcvf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="atON-mvhlAGjWhcDLdGg-1" target="HjrUG4rNDXJOUZNBJcvf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="atON-mvhlAGjWhcDLdGg-1" value="向量库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9bbbb;strokeColor=#098b80;fillStyle=auto;shadow=0;fontStyle=1;fontSize=18;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HjrUG4rNDXJOUZNBJcvf-1" value="向量库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9bbbb;strokeColor=#098b80;fillStyle=auto;shadow=0;fontStyle=1;fontSize=18;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
